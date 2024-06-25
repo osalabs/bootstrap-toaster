@@ -21,8 +21,9 @@ A lightweight and customizable toast notification library built on top of Bootst
 
 2. Include the Toaster script after Bootstrap:
 
+```html
 <script src="path/to/bootstrap-toaster.js"></script>
-
+```
 
 ## Usage
 
