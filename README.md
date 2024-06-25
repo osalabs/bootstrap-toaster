@@ -4,10 +4,11 @@ A lightweight and customizable toast notification library built on top of Bootst
 
 ## Features
 
+- Automatically stack multiple toasts and hides them after a timeout
 - Supports HTML content.
 - Customizable themes.
-- Provides helper methods for common toast types (success, danger, info, primary).
-- Includes a "Close All" feature with debounced update for performance.
+- Provides helper methods for common toast types (success, warning, danger, info, primary).
+- Includes a "Close All" feature to close multiple visible toasts at once
 - Emits custom events for toast actions.
 
 ![image](https://github.com/osalabs/bootstrap-toaster/assets/1141095/1e9d4aa7-6ec8-438e-b539-3d8d9248ea23)
