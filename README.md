@@ -10,6 +10,10 @@ A lightweight and customizable toast notification library built on top of Bootst
 - Includes a "Close All" feature with debounced update for performance.
 - Emits custom events for toast actions.
 
+![image](https://github.com/osalabs/bootstrap-toaster/assets/1141095/1e9d4aa7-6ec8-438e-b539-3d8d9248ea23)
+
+![image](https://github.com/osalabs/bootstrap-toaster/assets/1141095/4ad85c95-5d01-4637-9cfc-16d2a44b742e)
+
 ## Installation
 
 1. Include the Bootstrap 5 CSS and JS files in your HTML:
